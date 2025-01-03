@@ -8,8 +8,13 @@ This tool is integrated into the **Long-term Energy Alternatives Planning System
 
 - **GHG Emissions Estimation**  
   The AFOLU tool facilitates the estimation of methane (CH₄), carbon dioxide (CO₂), and nitrous oxide (N₂O) emissions from:
-  - Livestock management
+  - Enteric fermentation
+  - Rice cultivation
+  - Manure Management
   - Soil management
+    - Direct N₂O Emissions from synthetic and organic fertilizers (application of animal manure, crop residues and grazing)
+    - Indirect N₂O Emissions from atmospheric deposition, and leaching and run-off
+    - CO₂ Emissions from urea application
   - Forestry, other land use and land-use change
 
 - **Adaptable Model**  
