@@ -10,7 +10,7 @@ Welcome to the official documentation for the AFOLU Tool. This site provides gui
 ## Getting Started
 
 - [Setup Guide](setup/.md)
-- [Model Description](Model/ description.md)
+- [Model Description](Modeldescription.md)
 
 For downloading the model, visit the [GitHub repository](https://github.com/sei-international/AFOLU-tool).
 
