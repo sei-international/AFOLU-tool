@@ -1,5 +1,20 @@
-##AFOLU Tool Documentation##
+---
+layout: default
+title: Welcome to the AFOLU Tool
+---
 
+# AFOLU Tool Documentation
+
+Welcome to the official documentation for the AFOLU Tool. This site provides guidance on setting up and using the tool.
+
+## Getting Started
+
+- [Introduction](introduction.md)
+- [Setup Guide](setup/index.md)
+
+For downloading the model, visit the [GitHub repository](https://github.com/sei-international/AFOLU-tool).
+
+---
 The *SEI Agriculture, Forestry, and Other Land Use (AFOLU)-tool* is designed to assist policymakers and planners in developing medium- and long-term greenhouse gas (GHG) non-energy emission scenarios for agriculture, forestry, and other land uses.
 The tool is integrated into the Long-term Energy Alternatives Planning System (LEAP) platform, which is currently used by over 60,000 users to create medium- and long-term energy systems and GHG emission trajectories. 
 
