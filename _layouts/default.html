@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+</head>
+<body>
+  <div class="wrapper">
+    <div class="sidebar">
+      <h2>Documentation</h2>
+      <ul>
+        <li><a href="{{ '/index.md' | relative_url }}">Introduction</a></li>
+        <li><a href="{{ '/docs/set-up.md' | relative_url }}">Set-up Guide</a></li>
+        <li><a href="{{ '/docs/setup/Installation.md' | relative_url }}">Step 1: Install Dependencies</a></li>
+      </ul>
+    </div>
+    <div class="content">
+      {{ content }}
+    </div>
+  </div>
+</body>
+</html>
