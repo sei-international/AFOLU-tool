@@ -22,7 +22,7 @@ The tool consists of a LEAP model of non-energy related GHG emissions from agric
   - Forestry, other land use and land-use change
 
 - **Adaptable Model**  
-  The tool comes in the form of a LEAP model for non-energy-related GHG emissions from agriculture and FOLU based on a hypothetical  country with dry temperate climate and can be easily adapted to specific national geographic and climatic contexts.
+  The tool comes in the form of a LEAP model with branches for non-energy-related GHG emissions from agriculture and FOLU based on a hypothetical country with dry temperate climate and can be easily adapted to specific national geographic and climatic contexts.
 
 - **IPCC-Compliant Methodology**  
   The tool employs the Tier 1 methodology from the **2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories**, ensuring alignment with National GHG inventories and UN Transparency reporting guidelines
