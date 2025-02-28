@@ -1,4 +1,4 @@
-## Model description
+## Detailed model description
 
 The model is set up such that all national data, and parameters are stored under key assumptions, to facilitate updating.
 
