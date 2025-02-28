@@ -8,7 +8,7 @@ Livestock
 -	In the Baseline scenario, develop appropriate projections. In the default-model these follow 10-year historical trends (2011-2020). 
 -	If part of manure is used for feed, construction or fuel update variables Fraction Feed, Construction under KEY/Non-energy/Agriculture/Livestock/[ANIMAL TYPE] branch
 -	If part of manure is burned for fuel, update variable Fraction Burned for Fuel under KEY/Non-energy/Agriculture/Livestock/[ANIMAL TYPE] branch (This will also update fraction fuel used to calculate fraction available for soil application)
--	
+
 Fertilizer
 -	Under Current Accounts, update the amount of fertilizer applied under KEY/Agriculture/Fertilizer/[FERTILIZER TYPE]. Suggested Source: National Statistics or FAO Stat (under Land, Inputs and Sustainability>Inputs>Fertilizer by Product choose Countries: Country in question, Elements: Agricultural Use, Items:  Ammonium nitrate (AN), Ammonium sulphate, Urea and Other where applicable (N content of Other category is assumed at 0.2, update if necessary)). 
 -	In the Baseline scenario, develop appropriate projections. In the default-model these follow 10-year historical trends (2011-2020). 
