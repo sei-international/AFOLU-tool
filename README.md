@@ -52,7 +52,9 @@ Contributions to the AFOLU tool are welcome! Feel free to fork this repository, 
 ## License  
 This project is licensed under the [Apache 2.0](LICENSE).
 
-## Acknowledgments
+## Contributors
+Chris Malley -- development of initial excel-based version
+Charlotte Wagner [@ccwagner](https://github.com/ccwagner) -- LEAP-tool development
 The original version of this tool was based on an excel-tool developed by C. Malley (SEI).
 
 ## Contact  
