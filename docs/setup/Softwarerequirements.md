@@ -1,4 +1,4 @@
-## Download and Install LEAP
+## Download and install LEAP
 
 1. Go to the LEAP website at [leap.sei.org](https://leap.sei.org), and download the latest 64-bit version of LEAP from the **Download** menu.
 2. Install LEAP on your machine.
