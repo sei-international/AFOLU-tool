@@ -8,4 +8,4 @@
 
 **Note:** Downloading LEAP requires a user account on leap.sei.org. If you do not have one, create a user account first. You will also need a valid LEAP license to edit the tool and adapt it to your context. LEAP licenses can also be requested via the LEAP website and are free for governmental organizations in low- and middle-income countries and for students globally.
 
-[Next](setup/Installation.md)
+[Next](Installation.md)
