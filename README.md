@@ -43,7 +43,7 @@ A comprehensive **User Manual** is included to guide users through:
 ## How It Works  
 1. Install [LEAP](https://leap.sei.org).
 2. Download the AFOLU tool from this GitHub repository and install in LEAP
-3. Configure the model for your specific national or regional context using the provided manual.
+3. Configure the model for your specific national or regional context following the user manual.
 4. Build and compare different mitigation scenarios.
 
 ## Contributing  
