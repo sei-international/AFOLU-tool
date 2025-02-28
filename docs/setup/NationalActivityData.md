@@ -1,7 +1,7 @@
 [Previous](Installation.md)
-### Update National Activity Data
+## Update National Activity Data
 
-## Agriculture
+### Agriculture
 
 Livestock
 -	Under Current Accounts, update the number of animals under KEY/Agriculture/Livestock/[ANIMAL SPECIES]. Add all years for which data is available. Suggested Source: National Statistics or FAO Stat (under Production>Crops and livestock products choose Countries: Country in question, Elements: Stocks, Items: Live Animals). 
