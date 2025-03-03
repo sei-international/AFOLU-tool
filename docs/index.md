@@ -9,7 +9,7 @@ Together, LEAP and the AFOLU tool enable the development of internally consisten
 
 ## Getting Started
 
-- [Setup Guide](setup/Softwarerequirements.md)
+- [Setup Guide](setup/Setup.md)
 - [Model description](Modeldescription.md)
 
 For downloading the model, visit the [GitHub repository](https://github.com/sei-international/AFOLU-tool).
