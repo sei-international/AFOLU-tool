@@ -3,7 +3,7 @@ layout: default
 title: Getting Started
 ---
 
-[Previous](../Index.md)
+[Previous](../index.md)
 ## Getting Started
 
 These instructions will guide you through setting up your own model of non-energy GHG emission projections in LEAP using the AFOLU tool. 
