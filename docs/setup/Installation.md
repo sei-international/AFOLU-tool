@@ -1,3 +1,8 @@
+---
+layout: default
+title: Installation
+---
+
 [Previous](Softwarerequirements.md)
 
 ## Installation of the AFOLU Tool in LEAP
