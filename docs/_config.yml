@@ -1,5 +1,4 @@
-title: AFOLU Tool Documentation
-theme: jekyll-theme-minimal # Or any theme you prefer
+theme: jekyll-theme-cayman # Or any theme you prefer
 
 include:
   - _layouts
