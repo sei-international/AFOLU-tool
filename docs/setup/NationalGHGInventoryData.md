@@ -12,4 +12,4 @@ This is done in the *Current Accounts*-scenario under the *Non Energy*-branch. T
   - Managed Soils (N2O emissions)
   - Urea Application (CO2 emissions)
 
-If you do not add this data, the tool will default to bottom-up calculations of GHG emissions based on Activity data. Bottom-up calculation will begine in the earliest year for which activity data is available and no inventory data is available.
+If you do not add National GHG Inventory data, the tool will default to bottom-up calculations of GHG emissions based on activity data. Bottom-up calculation will begin in the earliest year for which activity data is available and no inventory data is available.
