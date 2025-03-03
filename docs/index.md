@@ -1,3 +1,8 @@
+---
+layout: default
+title: AFOLU Tool Documentation
+---
+
 # AFOLU Tool Documentation
 
 Welcome to the official documentation for the AFOLU Tool. This site provides guidance on setting up and using the tool.
