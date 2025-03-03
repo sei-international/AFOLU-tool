@@ -2,8 +2,6 @@
 
 Welcome to the official documentation for the AFOLU Tool. This site provides guidance on setting up and using the tool.
 
-Welcome to the official documentation for the AFOLU Tool. This site provides guidance on setting up and using the tool.
-
 - [Setup Guide](setup/Softwarerequirements.md)
 - [Model description](modeldescription.md)
 
