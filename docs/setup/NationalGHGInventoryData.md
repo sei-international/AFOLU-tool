@@ -4,7 +4,7 @@
 In order to make projections consistent with national inventories that have been developed outside of LEAP, the AFOLU tool allows adding the inventory directly to the AFOLU tool and overwriting bottom-up calculations. 
 
 This is done in the *Current Accounts*-scenario under the *Non Energy*-branch. To add your data:
-- Select *Current Accounts* from the Scenarios
+- Select *Current Accounts* from the *Scenarios*-drop down menu
 - Add historical GHG inventory data under each relevant category:
   - Enteric Fermentation (CH4 emissions)
   - Rice Cultivation (CH4 emissions)
@@ -12,4 +12,4 @@ This is done in the *Current Accounts*-scenario under the *Non Energy*-branch. T
   - Managed Soils (N2O emissions)
   - Urea Application (CO2 emissions)
 
-If you do not add this data, the tool will default to bottom-up calculations of GHG emissions based on Activity data. Calculation will begine in the earliest year for which activity data is available. 
+If you do not add this data, the tool will default to bottom-up calculations of GHG emissions based on Activity data. Bottom-up calculation will begine in the earliest year for which activity data is available and no inventory data is available.
