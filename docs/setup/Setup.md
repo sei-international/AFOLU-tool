@@ -1,3 +1,9 @@
+
+---
+layout: default
+title: Getting Started
+---
+
 [Previous](../Index.md)
 # Getting Started
 
