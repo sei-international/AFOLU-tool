@@ -37,7 +37,8 @@ The AFOLU tool can be downloaded directly from this GitHub repository.
 
 ### Documentation  
 A comprehensive [**User Manual**](https://sei-international.github.io/AFOLU-tool/) is included to guide users through:  
-- Identifying national data requirements  
+- Identifying and adding national data requirements
+- Calibrating to existing GHG emission inventories
 - Adjusting for context-specific parameters and climate-specific emission factors  
 
 ## How It Works  
