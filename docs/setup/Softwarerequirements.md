@@ -1,4 +1,4 @@
-[Previous](Softwarerequirements.md)
+[Previous](Setup.md)
 # Software requirements
 
 ## Download and install LEAP
