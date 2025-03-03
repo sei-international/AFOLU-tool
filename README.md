@@ -35,20 +35,20 @@ The tool consists of a LEAP model of non-energy related GHG emissions from agric
 ### Download  
 The AFOLU tool can be downloaded directly from this GitHub repository.  
 
+### How It Works  
+1. Install [LEAP](https://leap.sei.org).
+2. Download the AFOLU tool from this GitHub repository and install in LEAP
+3. Configure the model for your specific national or regional context following the user manual.
+4. Build and compare different mitigation scenarios.
+   
 ### Documentation  
 A comprehensive [**User Manual**](https://sei-international.github.io/AFOLU-tool/) is included to guide users through:  
 - Identifying and adding national data requirements
 - Calibrating to existing GHG emission inventories
 - Adjusting for context-specific parameters and climate-specific emission factors  
 
-## How It Works  
-1. Install [LEAP](https://leap.sei.org).
-2. Download the AFOLU tool from this GitHub repository and install in LEAP
-3. Configure the model for your specific national or regional context following the user manual.
-4. Build and compare different mitigation scenarios.
-
 ## Contributing  
-Contributions to the AFOLU tool are welcome! Feel free to fork this repository, submit issues, or create pull requests.
+If you are interested in contributing to the AFOLU tool, please contact Charlotte Wagner.
 
 ## License  
 This project is licensed under the [Apache 2.0](LICENSE).
