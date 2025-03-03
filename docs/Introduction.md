@@ -3,11 +3,11 @@ layout: default
 title: AFOLU Tool Documentation
 ---
 
-<h1>Welcome to My GitHub Pages Site</h1>
-<p>This site contains documentation for my project.</p>
+<h1>AFOLU Tool Documentation</h1>
+<p>Welcome to the official documentation for the AFOLU Tool. This site provides guidance on setting up and using the tool.</p>
 <ul>
-    <li><a href="setup/Installation.md">Installation Guide</a></li>
-    <li><a href="setup/Modelsetup.md">Model Setup</a></li>
+    <li><a href="setup/Softwarerequirements.md">Setup Guide</a></li>
+    <li><a href="setup/Modeldescription.md">Model description</a></li>
 </ul>
 
 
