@@ -2,5 +2,5 @@ theme: jekyll-theme-cayman # Or any theme you prefer
 
 include:
   - _layouts
-  - _setup
+  - setup
 
