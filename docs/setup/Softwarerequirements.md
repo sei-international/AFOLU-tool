@@ -1,3 +1,8 @@
+---
+layout: default
+title: Software requirements
+---
+
 [Previous](Setup.md)
 # Software requirements
 
