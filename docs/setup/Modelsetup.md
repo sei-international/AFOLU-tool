@@ -1,9 +1,15 @@
-[Previous](Installation.md)
-# Model Setup
+[Previous](../Index.md)
+# Getting Started
 
-We will now guide you through setting up a Current Accounts scenario step-by-step. This will involve:
-- adding historical data on activities 
-- updating climate-dependent parameters
-- updating other context dependent parameters
+These instructions will guide you through setting up your own model of non-energy GHG emission projections in LEAP using the AFOLU tool. 
 
-[Next](NationalActivityData.md)
+This will involve:
+- Installing LEAP
+- Installing the AFOLU tool
+- Setting up an AFOLU model of your national context by:
+  - Adapting the tool to your national context using activity data 
+  - Updating climate-dependent parameters
+- Calibrating to National GHG Inventory
+- Building AFOLU mitigation scenarios
+
+[Next](Installation.md)
