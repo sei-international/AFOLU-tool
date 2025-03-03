@@ -55,6 +55,7 @@ This project is licensed under the [Apache 2.0](LICENSE).
 
 ## Contributors
 Chris Malley                                    -- development of initial excel-based version
+
 [Charlotte Wagner](https://github.com/ccwagner) -- LEAP-tool development
 
 ## Contact  
