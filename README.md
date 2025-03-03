@@ -54,9 +54,8 @@ If you are interested in contributing to the AFOLU tool, please contact Charlott
 This project is licensed under the [Apache 2.0](LICENSE).
 
 ## Contributors
-Chris Malley -- development of initial excel-based version
-
-Charlotte Wagner [@ccwagner](https://github.com/ccwagner) -- LEAP-tool development
+Chris Malley                                    -- development of initial excel-based version
+[Charlotte Wagner](https://github.com/ccwagner) -- LEAP-tool development
 
 ## Contact  
 For questions or further information, please reach out to the maintainers via the [Issues](https://github.com/) tab or contact us at [charlotte.wagner@sei.org].
