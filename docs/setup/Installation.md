@@ -1,6 +1,6 @@
 ## Installation of the AFOLU Tool in LEAP
 
-1. **Download the *AFOLU_v$currentversion$.leap file*** from [GitHub](https://github.com/sei-international/AFOLU-tool) and install the tool in your LEAP software.
+1. **Download the *AFOLU_v[CURRENT VERSION #].leap file*** from [GitHub](https://github.com/sei-international/AFOLU-tool) and install the tool in your LEAP software.
 
 2. Navigate to the **Downloads** folder (or wherever you saved the *AFOLU.leap* file), and double-click to install it in LEAP. Alternatively, you can also select **"Install from file"** from the LEAP software's **Area** menu.
 
