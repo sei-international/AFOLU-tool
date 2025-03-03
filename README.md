@@ -36,7 +36,7 @@ The tool consists of a LEAP model of non-energy related GHG emissions from agric
 The AFOLU tool can be downloaded directly from this GitHub repository.  
 
 ### Documentation  
-A comprehensive **User Manual** is included to guide users through:  
+A comprehensive [**User Manual**](https://sei-international.github.io/AFOLU-tool/) is included to guide users through:  
 - Identifying national data requirements  
 - Adjusting for context-specific parameters and climate-specific emission factors  
 
