@@ -1,4 +1,4 @@
-[Previous}(Softwarerequirements.md)
+[Previous](Softwarerequirements.md)
 
 ## Installation of the AFOLU Tool in LEAP
 
