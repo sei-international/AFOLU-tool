@@ -25,3 +25,90 @@
   </div>
 </body>
 </html>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+    <style>
+        body {
+            display: flex;
+            font-family: Arial, sans-serif;
+        }
+        .sidebar {
+            width: 250px;
+            height: 100vh;
+            background-color: #f8f9fa;
+            padding: 20px;
+            position: fixed;
+            left: 0;
+            top: 0;
+            overflow-y: auto;
+            border-right: 1px solid #ddd;
+        }
+        .sidebar h2 {
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+        .sidebar ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        .sidebar ul li {
+            padding: 8px 0;
+        }
+        .sidebar ul li a {
+            text-decoration: none;
+            color: #333;
+        }
+        .sidebar ul li ul {
+            margin-left: 15px;
+            display: none; /* Initially hidden */
+        }
+        .sidebar ul li.active > ul {
+            display: block; /* Expand when active */
+        }
+        .content {
+            margin-left: 270px;
+            padding: 20px;
+            width: calc(100% - 270px);
+        }
+    </style>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            document.querySelectorAll(".toggle").forEach(function(toggle) {
+                toggle.addEventListener("click", function() {
+                    this.parentElement.classList.toggle("active");
+                });
+            });
+        });
+    </script>
+</head>
+<body>
+
+    <div class="sidebar">
+        <h2>Documentation</h2>
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/Index.md">Introduction</a></li>
+            <li class="toggle"><a href="#">Setup ⌄</a>
+                <ul>
+                    <li><a href="/setup/Softwarerequirements.md.md">Software Requirements</a></li>
+                    <li><a href="/setup/Installation.md">Installation</a></li>
+                    <li><a href="/setup/NationalActivityData.md">Adding National Data</a></li>
+                    <li><a href="/setup/NationalGHGInventoryData.md">Calibrating to National GHG Inventory</a></li>
+                </ul>
+            </li>
+            <li><a href="/Modeldescription.md">Model Description</a></li>
+        </ul>
+    </div>
+
+    <div class="content">
+        {{ content }}
+    </div>
+
+</body>
+</html>
