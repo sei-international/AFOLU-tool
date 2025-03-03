@@ -10,7 +10,7 @@ These instructions will guide you through setting up your own model of non-energ
 
 This will involve:
 - [Software Requirements](Softwarerequirements.md)
-- [Installing the AFOLU tool](Installation.md)
+- [Tool installation](Installation.md)
 - Setting up an AFOLU model of your national context by:
   - Agriculture
     - [Adapting the tool to your national context using activity data](NationalActivitydata.md)
