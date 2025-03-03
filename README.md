@@ -59,4 +59,4 @@ Chris Malley -- development of initial excel-based version
 Charlotte Wagner [@ccwagner](https://github.com/ccwagner) -- LEAP-tool development
 
 ## Contact  
-For questions or further information, please reach out to the maintainers via the [Issues](https://github.com/) tab or contact us at [charlotte.wagner@sei.org.
+For questions or further information, please reach out to the maintainers via the [Issues](https://github.com/) tab or contact us at [charlotte.wagner@sei.org].
