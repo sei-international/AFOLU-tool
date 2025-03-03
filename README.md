@@ -19,7 +19,7 @@ The tool consists of a LEAP model of non-energy related GHG emissions from agric
     - Direct N₂O Emissions from synthetic and organic fertilizers (application of animal manure, crop residues and grazing)
     - Indirect N₂O Emissions from atmospheric deposition, and leaching and run-off
     - CO₂ Emissions from urea application
-  - Forestry, other land use and land-use change
+  - Forestry, other land use and land-use change (LULUCF)
 
 - **Adaptable Model**  
   The tool comes in the form of a LEAP model with branches for non-energy-related GHG emissions from agriculture and FOLU based on a hypothetical country with dry temperate climate and can be easily adapted to specific national geographic and climatic contexts.
