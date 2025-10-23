@@ -1,86 +1,143 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
-    <style>
-        body {
-            display: flex;
-            font-family: Arial, sans-serif;
-        }
-        .sidebar {
-            width: 250px;
-            height: 100vh;
-            background-color: #f8f9fa;
-            padding: 20px;
-            position: fixed;
-            left: 0;
-            top: 0;
-            overflow-y: auto;
-            border-right: 1px solid #ddd;
-        }
-        .sidebar h2 {
-            font-size: 18px;
-            margin-bottom: 10px;
-        }
-        .sidebar ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        .sidebar ul li {
-            padding: 8px 0;
-        }
-        .sidebar ul li a {
-            text-decoration: none;
-            color: #333;
-        }
-        .sidebar ul li ul {
-            margin-left: 15px;
-            display: none; /* Initially hidden */
-        }
-        .sidebar ul li.active > ul {
-            display: block; /* Expand when active */
-        }
-        .content {
-            margin-left: 270px;
-            padding: 20px;
-            width: calc(100% - 270px);
-        }
-    </style>
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            document.querySelectorAll(".toggle").forEach(function(toggle) {
-                toggle.addEventListener("click", function() {
-                    this.parentElement.classList.toggle("active");
-                });
-            });
-        });
-    </script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+  <style>
+    body { display:flex; font-family: Arial, sans-serif; margin:0; }
+    .sidebar {
+      width: 280px; height: 100vh; background:#f8f9fa; padding:18px 16px;
+      position: sticky; top:0; overflow:auto; border-right:1px solid #ddd;
+    }
+    .sidebar h2 { font-size: 18px; margin: 6px 0 12px; }
+    .content { flex:1; padding:24px; }
+    .nav, .nav ul { list-style:none; margin:0; padding:0; }
+    .nav a { color:#333; text-decoration:none; display:block; padding:6px 0; }
+    .nav a.active { font-weight:600; }
+    details { margin:4px 0; }
+    summary {
+      cursor:pointer; font-weight:600; padding:6px 0; list-style:none;
+    }
+    /* optional caret */
+    summary::marker { content: ""; }
+    summary::before {
+      content: "▸"; display:inline-block; width:1em; margin-left:-.2em;
+      transition: transform .15s ease-in-out;
+    }
+    details[open] > summary::before { transform: rotate(90deg); }
+    .indent { padding-left: 14px; }
+  </style>
 </head>
 <body>
 
-    <div class="sidebar">
-        <h2>AFOLU tool</h2> 
-        <h2>Documentation</h2>
-        <ul>
-            <li><a href="{{ '/index' | relative_url }}">Home</a></li>
-            <li><a href="{{ '/setup/Setup' | relative_url }}">Getting Started ⌄</a></li>
-                <ul>
-                    <li><a href="{{ '/setup/Softwarerequirements' | relative_url }}">Software Requirements</a></li>
-                    <li><a href="{{ '/setup/Installation' | relative_url }}">Installation</a></li>
-                    <li><a href="{{ '/setup/NationalActivityData' | relative_url }}">Adding National Data</a></li>
-                    <li><a href="{{ '/setup/NationalGHGInventoryData' | relative_url }}">Calibrating to National GHG Inventories</a></li>
-                </ul>
-            </li>
-            <li><a href="{{ '/Modeldescription' | relative_url }}">Model Description</a></li>
-        </ul>
-    </div>
+  <aside class="sidebar" role="navigation" aria-label="Sidebar">
+    <h2>AFOLU tool</h2>
+    <h2>Documentation</h2>
 
-    <div class="content">
-        {{ content }}
-    </div>
+    {% assign url = page.url %}
+    <ul class="nav">
+
+      <li>
+        <a href="{{ '/index/' | relative_url }}"
+           class="{% if url == '/' or url == '/index/' %}active{% endif %}">
+          Home
+        </a>
+      </li>
+
+      <li>
+        <details {% if url contains '/setup/' %}open{% endif %}>
+          <summary>Getting Started</summary>
+          <div class="indent">
+            <ul>
+              <li>
+                <a href="{{ '/setup/Setup/' | relative_url }}"
+                   class="{% if url == '/setup/Setup/' %}active{% endif %}">
+                  Getting Started overview
+                </a>
+              </li>
+              <li>
+                <a href="{{ '/setup/Softwarerequirements/' | relative_url }}"
+                   class="{% if url == '/setup/Softwarerequirements/' %}active{% endif %}">
+                  Software Requirements
+                </a>
+              </li>
+              <li>
+                <a href="{{ '/setup/Installation/' | relative_url }}"
+                   class="{% if url == '/setup/Installation/' %}active{% endif %}">
+                  Installation
+                </a>
+              </li>
+
+              <!-- New section after Installation -->
+              <li>
+                <details {% if url contains '/setup/agriculture/' or url contains '/setup/lulucf/' %}open{% endif %}>
+                  <summary>Setting up your model</summary>
+                  <div class="indent">
+                    <!-- Agriculture -->
+                    <details {% if url contains '/setup/agriculture/' %}open{% endif %}>
+                      <summary>Agriculture</summary>
+                      <div class="indent">
+                        <ul>
+                          <li>
+                            <a href="{{ '/setup/agriculture/adding-national-data/' | relative_url }}"
+                               class="{% if url == '/setup/agriculture/adding-national-data/' %}active{% endif %}">
+                              Adding National Data
+                            </a>
+                          </li>
+                          <li>
+                            <a href="{{ '/setup/agriculture/calibrating-to-nghgi/' | relative_url }}"
+                               class="{% if url == '/setup/agriculture/calibrating-to-nghgi/' %}active{% endif %}">
+                              Calibrating to National GHG Inventories
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </details>
+
+                    <!-- LULUCF -->
+                    <details {% if url contains '/setup/lulucf/' %}open{% endif %}>
+                      <summary>LULUCF</summary>
+                      <div class="indent">
+                        <ul>
+                          <li>
+                            <a href="{{ '/setup/lulucf/adding-national-data/' | relative_url }}"
+                               class="{% if url == '/setup/lulucf/adding-national-data/' %}active{% endif %}">
+                              Adding National Data
+                            </a>
+                          </li>
+                          <li>
+                            <a href="{{ '/setup/lulucf/calibrating-to-nghgi/' | relative_url }}"
+                               class="{% if url == '/setup/lulucf/calibrating-to-nghgi/' %}active{% endif %}">
+                              Calibrating to National GHG Inventories
+                            </a>
+                          </li>
+                        </ul>
+                      </div>
+                    </details>
+
+                  </div>
+                </details>
+              </li>
+            </ul>
+          </div>
+        </details>
+      </li>
+
+      <li>
+        <a href="{{ '/Modeldescription/' | relative_url }}"
+           class="{% if url == '/Modeldescription/' %}active{% endif %}">
+          Model Description
+        </a>
+      </li>
+
+    </ul>
+  </aside>
+
+  <main class="content">
+    {{ content }}
+  </main>
 
 </body>
 </html>
