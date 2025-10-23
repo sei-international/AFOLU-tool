@@ -1,7 +1,7 @@
 ---
 
 title: Software requirements
-permlink: /setup/sofware-requirements
+permlink: /setup/sofware-requirements/
 layout: default
 ---
 
