@@ -1,5 +1,10 @@
-[Previous](Installation.md)
-# Adding National Activity Data
+---
+title: Adding National Data
+permalink: /setup/agriculture/adding-national-data/
+layout: default
+---
+
+# Adding National Data (Agriculture)
 
 ## Agriculture
 
