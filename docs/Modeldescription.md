@@ -1,9 +1,9 @@
 ---
-title: General Methodology
+title: Model Description
 permalink: /model-description/
 layout: default
 ---
-## General Methodology
+## Model Description
 
 The AFOLU tool adopts a bottom-up, sector-specific approach to estimate baseline greenhouse gas emissions  agriculture, forestry, and other land use (AFOLU) sectors. The model structure and emission calculations are aligned with the 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories, applying a combination of Tier 1 and Tier 2 methodologies.
 
