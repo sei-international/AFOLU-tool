@@ -1,4 +1,4 @@
-# AFOLU Tool
+# SEI AFOLU Tool
 
 The SEI **Agriculture, Forestry, and Other Land Use (AFOLU)-tool** is designed to assist policymakers and planners in developing medium- and long-term greenhouse gas (GHG) non-energy emission scenarios for agriculture, forestry, and other land uses.
 
