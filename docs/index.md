@@ -15,11 +15,13 @@ Together, LEAP and the AFOLU tool enable the development of internally consisten
 
 ## Documentation Overview
 
-- [Model description](Modeldescription.md)
-- [Setup Guide](setup/setup.md)
+- [Model description]({{ '/model-description.md/' | relative_url }})
+- [Setup Guide]({{ '/setup/setup.md/' | relative_url }})
 
 
 
 For downloading the model, visit the [GitHub repository](https://github.com/sei-international/AFOLU-tool).
+
+[Next]({{ '/model-description.md/' | relative_url }})
 
 _Disclaimer: This tool is intended to facilitate Agriculture, Forestry and Other Land Use (AFOLU) greenhouse gas (GHG) analyses. While the Stockholm Environment Institute (SEI) provides the structure and methodological framework for implementing such analyses in LEAP, users are solely responsible for their model configurations and outputs. SEI assumes no responsibility or liability for the accuracy, completeness, or interpretation of modeling results. Users are advised to carefully review all input data, parameters, and results before drawing conclusions or making decisions based on the tool’s outputs._
