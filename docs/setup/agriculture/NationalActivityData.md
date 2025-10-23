@@ -14,7 +14,8 @@ Livestock
 -	If part of manure is burned for fuel, update variable Fraction Burned for Fuel under *KEY/Non-energy/Agriculture/Livestock/[ANIMAL TYPE]*-branch (This will also update fraction fuel used to calculate fraction available for soil application)
 
 Fertilizer
--	Under *Current Accounts*, update the amount of fertilizer applied under *KEY/Agriculture/Fertilizer/[FERTILIZER TYPE]*. Suggested Source: National Statistics or FAO Stat (under Land, Inputs and Sustainability>Inputs>Fertilizer by Product choose Countries: Country in question, Elements: Agricultural Use, Items:  Ammonium nitrate (AN), Ammonium sulphate, Urea and Other where applicable (N content of Other category is assumed at 0.2, update if necessary)). 
+-	Under *Current Accounts*, update the amount of fertilizer applied under *KEY/Agriculture/Fertilizer/[FERTILIZER TYPE]*. Suggested Source: National Statistics or FAO Stat (under Land, Inputs and Sustainability>Inputs>Fertilizer by Product choose Countries: Country in question, Elements: Agricultural Use, Items:  Ammonium nitrate (AN), Ammonium sulphate, Urea and Other where applicable (N content of Other category is assumed at 0.2, update if necessary)).
+-	Note that you can choose to either enter fertilizers by type (this should include the types mentioned above, or use total mineral fertilizer (in amounts of N). Depending on which approach you use the other variables activity data should be set to zero. If you choose the second method you also need to add amounts of urea applied, as this variable is used to estimate CO2 emissions from urea. 
 -	In the Baseline scenario, develop appropriate projections. In the default-model these follow 10-year historical trends (2011-2020). 
 
 Rice cultivation
