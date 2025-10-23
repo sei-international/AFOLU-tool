@@ -1,4 +1,5 @@
 [Previous](NationalActivityData.md)
+## Agriculture
 # Calibrating to National GHG Inventory data
 
 In order to make projections consistent with national inventories that have been developed outside of LEAP, the AFOLU tool allows adding the inventory directly to the AFOLU tool and overwriting bottom-up calculations. 
