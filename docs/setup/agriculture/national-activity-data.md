@@ -4,6 +4,7 @@ permalink: /setup/agriculture/adding-national-data/
 layout: default
 ---
 
+[Previous]({{ '/setup/installation/' | relative_url }})
 ## Agriculture
 # Adding National Data
 
