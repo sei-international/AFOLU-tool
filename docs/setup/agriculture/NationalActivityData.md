@@ -6,8 +6,6 @@ layout: default
 
 # Adding National Data (Agriculture)
 
-## Agriculture
-
 Livestock
 -	Under *Current Accounts*, update the number of animals under *KEY/Agriculture/Livestock/[ANIMAL SPECIES]*. Add all years for which data is available. Suggested Source: National Statistics or FAO Stat (under Production>Crops and livestock products choose Countries: Country in question, Elements: Stocks, Items: Live Animals). 
 -	In the Baseline scenario, develop appropriate projections. In the default-model these follow 10-year historical trends (2011-2020). 
