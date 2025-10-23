@@ -3,6 +3,9 @@ title: Model Description
 permalink: /model-description/
 layout: default
 ---
+
+[Previous]({{ '/index/' | relative_url }}
+
 ## Model Description
 
 The AFOLU tool adopts a bottom-up, sector-specific approach to estimate baseline greenhouse gas emissions  agriculture, forestry, and other land use (AFOLU) sectors. The model structure and emission calculations are aligned with the 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories, applying a combination of Tier 1 and Tier 2 methodologies.
@@ -22,3 +25,6 @@ The following **AFOLU sectors** are included:
 To facilitate updating context dependent parameters, the model is set up such that all national data, and parameters are stored under key assumptions.
 
 Final emission calculations for each relevant subcategory takes place under the non-energy branch, and can be displayed in LEAP's Results-View.
+
+
+[Next]({{ '/setup/setup/' | relative_url }}
