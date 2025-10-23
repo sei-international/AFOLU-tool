@@ -1,6 +1,6 @@
 ---
 title: Adding National Data
-permalink: /setup/lulucf/adding-national-data/
+permalink: /setup/lulucf/calibrating-to-nghgi/
 layout: default
 ---
 
