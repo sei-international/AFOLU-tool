@@ -28,6 +28,7 @@ Suggested Source: National Statistics or FAO Stat (under Production>Crops and li
 Crops
 -	Under *Current Accounts*, update the area and amount harvested for each crop type (variables *Activity Level* and *Area harvested* in the *KEY/Non-energy/Agriculture/Crops/[CROP TYPE]*-branch). Add all years for which data is available. 
 Suggested Source: National Statistics or FAO Stat (under Production>Crops and livestock products choose Countries: Country in question, Elements: Area Harvested and Yield, Items: Crops primary>Select all). You can use the variable Dry weight under branch KEY/Non-energy/Agriculture/Crops/Total_Yield dry weight to check whether total yield aligns with national statistics.
+*Note: if you work with national statistics, which is recommended, you will need to map crop types reported to the IPCC categories in certain cases. Make sure all crops in the national statistics are included, and set crop categories not produced in the national context to zero.
 -	In the *Baseline* scenario, develop appropriate projections. In the default-model these stay constant.
 -	If part of crop residue is removed, or slash and burn practices are used, update variables *Slashed and Burnt* and *Fraction removed* under *KEY/Non-energy/Agriculture/Crops/[CROP TYPE]*-branch
 
