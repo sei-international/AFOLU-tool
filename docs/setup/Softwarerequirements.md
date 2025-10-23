@@ -1,6 +1,8 @@
 ---
-layout: default
+
 title: Software requirements
+permlink: /setup/sofware-requirements
+layout: default
 ---
 
 [Previous](Setup.md)
