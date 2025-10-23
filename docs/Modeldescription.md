@@ -1,6 +1,6 @@
 ---
 title: General Methodology
-permalink: /setup/lulucf/model-description/
+permalink: /model-description/
 layout: default
 ---
 ## General Methodology
