@@ -4,6 +4,7 @@ permalink: /setup/setup/
 layout: default
 ---
 
+[Previous]({{ '/model-description/' | relative_url }})
 ## Getting Started
 
 These instructions will guide you through setting up your own model of non-energy GHG emission projections in LEAP using the AFOLU tool. This will involve:
