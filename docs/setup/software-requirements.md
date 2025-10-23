@@ -5,9 +5,9 @@ layout: default
 ---
 
 [Previous]({{ '/setup/setup/' | relative_url }}
-# Software requirements
+## Software requirements
 
-## Low Emissions Analysis Platform (LEAP)
+### Low Emissions Analysis Platform (LEAP)
 
 To download and install LEAP
 
