@@ -1,5 +1,4 @@
 ---
-
 title: Software requirements
 permlink: /setup/software-requirements/
 layout: default
