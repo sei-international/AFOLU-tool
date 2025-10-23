@@ -5,7 +5,7 @@ permlink: /setup/sofware-requirements/
 layout: default
 ---
 
-[Previous](Setup.md)
+[Previous]({{ '/setup/setup/' | relative_url }}
 # Software requirements
 
 ## Low Emissions Analysis Platform (LEAP)
@@ -17,4 +17,4 @@ To download and install LEAP
 
 **Note:** Downloading LEAP requires a user account on leap.sei.org. If you do not have one, create a user account first. You will also need a valid LEAP license to edit the tool and adapt it to your context. LEAP licenses can also be requested via the LEAP website and are free for governmental organizations in low- and middle-income countries and for students globally.
 
-[Next](Installation.md)
+[Next]({{ '/setup/installation/' | relative_url }}
