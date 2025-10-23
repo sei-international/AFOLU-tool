@@ -13,8 +13,13 @@ To install the AFOLU tool in LEAP
 
 This will open the default AFOLU tool in LEAP. The AFOLU consists of a non-energy LEAP-model  for a hypothetical country with a dry climate, with the following branch structure:
 
+AFOLU tool
 - Key assumptions
-- Non-Energy
+  - Non Energy
+    - Agriculture
+    - LULUCF
+    - IPCC Emission Factors
+- Non Energy
   - Agriculture
   - LULUCF
 
