@@ -13,7 +13,7 @@ The SEI Agriculture, Forestry, and Other Land Use (AFOLU)-tool is designed to as
 
 Together, LEAP and the AFOLU tool enable the development of internally consistent energy and non-energy GHG emission reduction strategies. By leveraging LEAP's scenario-building capabilities, user-friendly interface and reporting capacity, users can explore different management strategies, facilitating the prioritization of key areas for mitigation action. The AFOLU tool applies the Tier 1 methodology in the 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories to estimate emissions of methane (CH4), carbon dioxide (CO2), and nitrous oxide (NOX) emissions, ensuring that mitigation scenarios align with national GHG inventories and transparency reporting guidelines.
 
-## Getting Started
+## Documentation Overview
 
 - [Model description](Modeldescription.md)
 - [Setup Guide](setup/setup.md)
