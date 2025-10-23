@@ -1,4 +1,3 @@
-[Previous](NationalActivityData.md)
 ---
 title: Adding National Data
 permalink: /setup/agriculture/calibrating-to-nghgi/
