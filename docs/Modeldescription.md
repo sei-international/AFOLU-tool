@@ -4,7 +4,7 @@ permalink: /model-description/
 layout: default
 ---
 
-[Previous]({{ '/index/' | relative_url }})
+[Previous]({{ '/index.md/' | relative_url }})
 
 ## Model Description
 
@@ -27,4 +27,4 @@ To facilitate updating context dependent parameters, the model is set up such th
 Final emission calculations for each relevant subcategory takes place under the non-energy branch, and can be displayed in LEAP's Results-View.
 
 
-[Next]({{ '/setup/setup/' | relative_url }})
+[Next]({{ '/setup/setup.md/' | relative_url }})
