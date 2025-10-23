@@ -4,7 +4,7 @@ permalink: /setup/lulucf/gain-loss-method/
 layout: default
 ---
 ## LULUCF
-# The Gain-Loss Method
+### The Gain-Loss Method
 
 For the Land Use, Land-Use Change, and Forestry (LULUCF) category, a Gain–Loss method is applied to track 
 emissions and sequestration associated with land use changes and management practices. For forested lands, 
