@@ -1,6 +1,6 @@
 ---
 title: AFOLU Tool Documentation
-permalink: /index.md/
+permalink: /index/
 layout: default
 ---
 
