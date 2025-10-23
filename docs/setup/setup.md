@@ -12,6 +12,6 @@ These instructions will guide you through setting up your own model of non-energ
 - Setting up an AFOLU model of your national context for:
   - [Agriculture]({{ '/setup/agriculture/adding-national-data/' | relative_url }})
   - [LULUCF]({{ '/setup/lulucf/gain-loss-method/' | relative_url }})
-- [Building AFOLU mitigation scenarios]({{ '/setup/afolu-mitigation-scenarios/' | relative_url }})uilding AFOLU mitigation scenarios(/setup/AFOLU-mitigation-scenarios.md)
+- [Building AFOLU mitigation scenarios]({{ '/setup/afolu-mitigation-scenarios/' | relative_url }})
 
 [Next]({{ '/setup/software-requirements/' | relative_url }})
