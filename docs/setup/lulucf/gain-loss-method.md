@@ -11,6 +11,6 @@ emissions and sequestration associated with land use changes and management prac
 Tier 2 methods are applied, which is essential to account for biomass accumulation as well the impacts of overexploitation 
 on total carbon storage in natural and plantation forests. For all other land use categories, Tier 1 methods are used. 
 
-#### Developing a conversion Matrix
+#### Developing a land use conversion matrix
 
 _under construction_
