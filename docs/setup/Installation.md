@@ -1,6 +1,10 @@
-[Previous](Softwarerequirements.md)
+---
+title: Installation
+permalink: /setup/installation/
+layout: default
+---
 
-# Installation of the AFOLU Tool in LEAP
+# Installing the AFOLU Tool in LEAP
 
 1. **Download the *AFOLU_v[CURRENT VERSION #].leap file*** from [GitHub](https://github.com/sei-international/AFOLU-tool) and install the tool in your LEAP software.
 
