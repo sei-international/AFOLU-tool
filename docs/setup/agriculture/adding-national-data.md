@@ -33,4 +33,4 @@ Suggested Source: National Statistics or FAO Stat (under Production>Crops and li
 -	In the *Baseline* scenario, develop appropriate projections. In the default-model these stay constant.
 -	If part of crop residue is removed, or slash and burn practices are used, update variables *Slashed and Burnt* and *Fraction removed* under *KEY/Non-energy/Agriculture/Crops/[CROP TYPE]*-branch
 
-[Next](NationalGHGInventoryData.md)
+[Next]({{ '/setup/agriculture/' | relative_url }})
