@@ -3,7 +3,7 @@ title: Installation
 permalink: /setup/installation/
 layout: default
 ---
-
+[Previous]({{ '/setup/software-requirements.md/' | relative_url }})
 # Installation
 
 To install the AFOLU tool in LEAP
@@ -20,5 +20,5 @@ This will open the default AFOLU tool in LEAP. The AFOLU consists of a non-energ
 
 *You are now ready to adapt the model to your national or regional context.*
 
-[Next](NationalActivityData.md)
+[Next]({{ '/agriculture/national-activity-data.md/' | relative_url }})
 
