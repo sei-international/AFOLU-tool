@@ -36,6 +36,7 @@
     <h2>AFOLU tool</h2>
     <h2>Documentation</h2>
 
+
     {% assign url = page.url %}
     <ul class="nav">
 
@@ -43,6 +44,13 @@
         <a href="{{ '/index/' | relative_url }}"
            class="{% if url == '/' or url == '/index/' %}active{% endif %}">
           Home
+        </a>
+      </li>
+
+      <li>
+        <a href="{{ '/model-description/' | relative_url }}"
+           class="{% if url == '/model-description/' %}active{% endif %}">
+          Model Description
         </a>
       </li>
 
@@ -123,13 +131,6 @@
             </ul>
           </div>
         </details>
-      </li>
-
-      <li>
-        <a href="{{ '/Modeldescription/' | relative_url }}"
-           class="{% if url == '/Modeldescription/' %}active{% endif %}">
-          Model Description
-        </a>
       </li>
 
     </ul>
