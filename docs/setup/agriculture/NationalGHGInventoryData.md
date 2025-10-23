@@ -1,4 +1,9 @@
 [Previous](NationalActivityData.md)
+---
+title: Adding National Data
+permalink: /setup/agriculture/calibrating-to-nghgi/
+layout: default
+---
 ## Agriculture
 # Calibrating to National GHG Inventory data
 
