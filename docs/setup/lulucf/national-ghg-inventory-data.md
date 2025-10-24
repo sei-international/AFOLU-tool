@@ -5,7 +5,7 @@ layout: default
 ---
 [Previous]({{ '/setup/lulucf/adding-national-data/' | relative_url }})
 ## LULUCF
-# Calibrating to national GHG inventories
+### Calibrating to national GHG inventories
 In order to make projections consistent with national inventories that have been developed outside of LEAP, the AFOLU tool allows adding the inventory directly to the AFOLU tool and overwriting bottom-up calculations. 
 
 This is done in the *Current Accounts*-scenario under the *Non Energy*-branch. To add your data:
