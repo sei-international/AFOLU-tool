@@ -3,6 +3,7 @@ title: The Gain-Loss Method
 permalink: /setup/lulucf/gain-loss-method/
 layout: default
 ---
+[Previous]({{/setup/agriculture/calibrating-to-nghgi/' | relative_url }})
 ## LULUCF
 ### The Gain-Loss Method
 
@@ -18,4 +19,4 @@ soil carbon which are largely assumed to take place over a 20-year transition pe
 
 _under construction_
 
-[Next]({{/setup/lulucf/calibrating-to-nghgi | 
+[Next]({{/setup/lulucf/adding-national-data/' | relative_url }})
