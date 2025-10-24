@@ -35,8 +35,8 @@ Forested land | Cropland-to-Forest | Grassland-to-Forest | ... | Cropland | Fore
 
 |           | Forest land                 | Cropland-to-Forest | Grassland-to-Forest | … | Cropland                    | Forest-to-Cropland | Grassland-to-Cropland | … | Total national area         |
 | --------- | --------------------------- | ------------------ | ------------------- | - | --------------------------- | ------------------ | --------------------- | - | --------------------------- |
-| 2000 | [fill]                      | [fill]             | [fill]              | … | [fill]                      | [fill]             | [fill]                | … | [fill]                      |
-| 2001 | [fill]                      | [fill]             | [fill]              | … | [fill]                      | [fill]             | [fill]                | … | [fill]   
+| 2000 | …                      | …             | …               | … | …                       | …              | …                 | … | …                       |
+| 2001 | …                      | …             | …               | … | …                       | …              | …                 | … | …                       | 
 
 
 Two major approaches are commonly been used to develop such a land conversion matrix.
