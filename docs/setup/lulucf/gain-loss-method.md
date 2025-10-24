@@ -11,6 +11,9 @@ emissions and sequestration associated with land use changes and management prac
 Tier 2 methods are applied, which is essential to account for biomass accumulation as well the impacts of overexploitation 
 on total carbon storage in natural and plantation forests. For all other land use categories, Tier 1 methods are used. 
 
+The Gain-loss method allows tracking net carbon fluxes of gross changes in land use and management practices due to biomass, dead organic matter and 
+soil carbon which are largely assumed to take place over a 20-year transition period. However, it requires developing a land conversion matrix that tracks gross changes between the major land categories over the past 20-years.
+
 #### Developing a land use conversion matrix
 
 _under construction_
