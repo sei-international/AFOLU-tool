@@ -15,9 +15,7 @@ The Land Use, Land-Use Change, and Forestry (LULUCF)-component of the AFOLU tool
 - Settlements
 - Other Land
 
-The _Gain–Loss_-method is applied rather than the _Stockchange_-method typically used in National GHG Inventories that apply Tier 1 methods. The key benefit of this approach is that gross emissions and sequestration associated with land use changes as well as management practices can be accounted for, which is key for quantifying mitigation benefits, whereas the Stockchange Method, which is based on the land area remaining within a land category, will only track net changes in land area. 
-
-Specifically, the _Gain-Loss_-method tracks net carbon fluxes of gross changes in land use and management practices in three carbon pools: 
+The AFOLU-tool applies the _Gain–Loss_-method rather than the _Stockchange_-method typically used in National GHG Inventories that apply Tier 1 methods. The key benefit of this approach is that gross emissions and sequestration associated with land use changes as well as management practices can be accounted for, which is key for quantifying mitigation benefits, whereas the Stockchange Method, which is based on the land area remaining within a land category, will only track net changes in land area and average carbon stocks by land use type. The _Gain-Loss_-method on the other hand allows tracking carbon fluxes of gross changes not only due to land use changes, but also due to changes in management practices within a certain land use category across three carbon pools: 
 1) (Above and below ground) biomass, 
 2) Dead organic matter, and
 3) soil carbon
