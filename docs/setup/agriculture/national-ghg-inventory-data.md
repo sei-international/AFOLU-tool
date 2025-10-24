@@ -3,6 +3,7 @@ title: Adding National Data
 permalink: /setup/agriculture/calibrating-to-nghgi/
 layout: default
 ---
+[Previous]({{ '/setup/agriculture/adding-national-data/' | relative_url }})
 ## Agriculture
 ### Calibrating to National GHG Inventory data
 
@@ -22,3 +23,5 @@ This is done in the *Current Accounts*-scenario under the *Non Energy*-branch. T
 If you do not add National GHG Inventory data, the tool will default to bottom-up calculations of GHG emissions based on activity data. Bottom-up calculation will begin in the earliest year for which activity data is available and no inventory data is available. 
 
 **Important** Data can be added using the _Interp()_ or the _Data()_ functions in LEAP. If using the interp()-function make sure to specify the first year after the last inventory year as 0 , e.g. : `Interp(2019, 200, 2020, 210, 2021, 0)`
+
+[Next]({{ '/setup/lulucf/gain-loss-method/' | relative_url }})
