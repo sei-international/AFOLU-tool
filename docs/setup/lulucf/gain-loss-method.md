@@ -7,16 +7,38 @@ layout: default
 ## LULUCF
 ### The Gain-Loss Method
 
-For the Land Use, Land-Use Change, and Forestry (LULUCF) category, the Gain–Loss method is applied to track 
-emissions and sequestration associated with land use changes and management practices. For forested lands, 
-Tier 2 methods are applied, which is essential to account for biomass accumulation as well the impacts of overexploitation 
-on total carbon storage in natural and plantation forests. For all other land use categories, Tier 1 methods are used. 
+The Land Use, Land-Use Change, and Forestry (LULUCF)-component of the AFOLU tool tracks emissions from each of the key IPCC land use categories, namely:
+- Forest
+- Cropland
+- Grassland
+- Wetlands
+- Settlements
+- Other Land
 
-The Gain-loss method allows tracking net carbon fluxes of gross changes in land use and management practices due to biomass, dead organic matter and 
-soil carbon which are largely assumed to take place over a 20-year transition period. However, it requires developing a land conversion matrix that tracks gross changes between the major land categories over the past 20-years.
+The _Gain–Loss_-method is applied rather than the _Stockchange_-method typically used in National GHG Inventories that apply Tier 1 methods. The key benefit of this approach is that gross emissions and sequestration associated with land use changes as well as management practices can be accounted for, which is key for quantifying mitigation benefits, whereas the Stockchange Method, which is based on the land area remaining within a land category, will only track net changes in land area. 
+
+Specifically, the _Gain-Loss_-method tracks net carbon fluxes of gross changes in land use and management practices in three carbon pools: 
+1) (Above and below ground) biomass, 
+2) Dead organic matter, and
+3) soil carbon
+
+Biomass losses due to land conversions are accounted for in the same year, whereas carbon changes in dead organic matter and soils will accrue over a 20-year transition period, corresponding to reequilibration time to a new steady state of the disturbed carbon pool. The exception are biomass pools on conventionally farmed agricultural land, which are assumed to grow within a single year consistent with annual cropping.
+
+Changes in carbon pools from a specific land use change are tracked in the land use type to which the conversion takes place, e.g. carbon sequestration in reforested land is tracked under _Forested lands_, carbon releases from forested lands converted to pastures are tracked under _Grasslands_.
 
 #### Developing a land use conversion matrix
 
-_under construction_
+Applying the _Gain-Loss_ method requires knowledge of land conversions between the key land categories that have taken place over the last 20 years in order to estimate present day emissions/sequestrations from the LULUCF sector. This requires developing a land conversion matrix that tracks gross changes between the major land categories over the past 20-years.
+
+Forested land | Cropland-to-Forest | Grassland-to-Forest | ... | Cropland | Forest-to-Cropland | Grassland-to-Cropland | ...
+Forest land	Cropland-to-Forest	Grassland-to-Forest	…	Cropland	Forest-to-Cropland	Grassland-to-Cropland	…	Total national area
+2000	[fill]	[fill]	[fill]	…	[fill]	[fill]	[fill]
+2001  [fill]	[fill]	[fill]	…	[fill]	[fill]	[fill]
+[...]  [...]	[...]	[...]	…	[...]	[...]	[...]
+
+Two major approaches are commonly been used to develop such a land conversion matrix.
+- **Approach 1** uses national land and forest cadasters that collect data on the area of land use over time, supplemented by historical time series on key land conversions such as deforestation and refforestation, land degradation. Expert judgement is used to develop likely historical conversion scenarios that explain the observed land use inventory, f.e. defforested land may primarily be converted to cropland, cropland area lost may be victim to settlement pressures or land degradation etc. The conversion matrix should align with the land use inventory and total area of land withing the geographic boundary needs to be respected. It is recommended that experts developing the conversion matrix clearly identify and justify their assumptions and choices. If national data is not available, time series of land areas under specific uses can be retrieved from FAOStat.
+
+- **Approach 2**
 
 [Next]({{/setup/lulucf/adding-national-data/' | relative_url }})
