@@ -3,6 +3,7 @@ title: Adding National Data
 permalink: /setup/lulucf/calibrating-to-nghgi/
 layout: default
 ---
+[Previous]({{ '/setup/lulucf/adding-national-data/' | relative_url }})
 ## LULUCF
 # Calibrating to national GHG inventories
 In order to make projections consistent with national inventories that have been developed outside of LEAP, the AFOLU tool allows adding the inventory directly to the AFOLU tool and overwriting bottom-up calculations. 
@@ -24,3 +25,4 @@ If you do not add National GHG Inventory data, the tool will default to bottom-u
   1) Data can be added using the _Interp()_ or the _Data()_ functions in LEAP. If using the interp()-function make sure to specify the first year after the last inventory year as 0 , e.g. : `Interp(2019, 200, 2020, 210, 2021, 0)`
   2) If the national GHG inventory was developed using the Stockchange method which only considers net changes in land use area, carbon fluxes from individual land use categories in the AFOLU's tool bottom up modeling will not align with the land uses reported in the national inventories (see section on LULUCF methods and land use conversion matrix). Bottom up results should then be compared to total emissions across the LULUCF sectors.
 
+[Next]({{ '/setup/afolu-mitigation-scenarios/' | relative_url }}
