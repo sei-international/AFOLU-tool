@@ -5,7 +5,7 @@ layout: default
 ---
 
 [Previous]({{ '/setup/setup/' | relative_url }}
-## Software requirements
+## Software Requirements
 
 ### Low Emissions Analysis Platform (LEAP)
 
