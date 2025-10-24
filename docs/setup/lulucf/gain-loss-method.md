@@ -30,10 +30,14 @@ Changes in carbon pools from a specific land use change are tracked in the land 
 Applying the _Gain-Loss_ method requires knowledge of land conversions between the key land categories that have taken place over the last 20 years in order to estimate present day emissions/sequestrations from the LULUCF sector. This requires developing a land conversion matrix that tracks gross changes between the major land categories over the past 20-years.
 
 Forested land | Cropland-to-Forest | Grassland-to-Forest | ... | Cropland | Forest-to-Cropland | Grassland-to-Cropland | ...
-Forest land	Cropland-to-Forest	Grassland-to-Forest	…	Cropland	Forest-to-Cropland	Grassland-to-Cropland	…	Total national area
-2000	[fill]	[fill]	[fill]	…	[fill]	[fill]	[fill]
-2001  [fill]	[fill]	[fill]	…	[fill]	[fill]	[fill]
-[...]  [...]	[...]	[...]	…	[...]	[...]	[...]
+
+
+
+|           | Forest land                 | Cropland-to-Forest | Grassland-to-Forest | … | Cropland                    | Forest-to-Cropland | Grassland-to-Cropland | … | Total national area         |
+| --------- | --------------------------- | ------------------ | ------------------- | - | --------------------------- | ------------------ | --------------------- | - | --------------------------- |
+| 2000 | [fill]                      | [fill]             | [fill]              | … | [fill]                      | [fill]             | [fill]                | … | [fill]                      |
+| 2001 | [fill]                      | [fill]             | [fill]              | … | [fill]                      | [fill]             | [fill]                | … | [fill]   
+
 
 Two major approaches are commonly been used to develop such a land conversion matrix.
 - **Approach 1** uses national land and forest cadasters that collect data on the area of land use over time, supplemented by historical time series on key land conversions such as deforestation and refforestation, land degradation. Expert judgement is used to develop likely historical conversion scenarios that explain the observed land use inventory, f.e. defforested land may primarily be converted to cropland, cropland area lost may be victim to settlement pressures or land degradation etc. The conversion matrix should align with the land use inventory and total area of land withing the geographic boundary needs to be respected. It is recommended that experts developing the conversion matrix clearly identify and justify their assumptions and choices. If national data is not available, time series of land areas under specific uses can be retrieved from FAOStat.
