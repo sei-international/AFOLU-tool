@@ -61,21 +61,21 @@ If national statistics on these data are not available, they can be retrieved fr
 
 ### Climate and geography dependent variables 
 Key climate dependent variables that need to be updated:  
-- KEY\Forested Land\Natural Forest\Natural Forest remaining Natural Forest and KEY\Forested Land\Plantation Forest\Plantation Forest remaining Plantation Forest:
+- KEY/Forested Land/Natural Forest/Natural Forest remaining Natural Forest and KEY/Forested Land/Plantation Forest/Plantation Forest remaining Plantation Forest:
   - Annual biomass growth rates _delta_CG_ (Table 4.9, Chapter 4, Vol 4, IPCC 19R)
   - Root to shoot ratio _Root_shoot Ratio_ (Table 4.4, Chapter 4, Vol 4, IPCC 19R)
 
-- KEY\[LAND USE CATEGORY B]\[Natural or Plantation forest converted to LAND USE B]:
+- KEY/[LAND USE CATEGORY B]/[Natural or Plantation forest converted to LAND USE B]:
   - Old biomass stock _Biomass_old_ (Table 4.7, Chapter 4, Vol 4, IPCC 19R)
   - Dead wood carbon stocks _Dead wood stock_ (Table 2.2, Chapter 4, Vol 4, IPCC 19R)
   - Litter carbon stocks _Litter stock_old_ (Table 2.2, Chapter 4, Vol 4, IPCC 19R)
 
-- KEY\Cropland\[LAND USE A converted to Cropland]:
+- KEY/Cropland/[LAND USE A converted to Cropland]:
   - Adjustment factor for new land use: _LU_new_
   - Adjustment factor for new management practice: _LMG_new_
   - Adjustment factor for new inputs (fertilization practice): _LI_new_
  
-- KEY\[LAND USE CATEGORY]\[LAND USE A converted to LAND USE B]:
+- KEY/[LAND USE CATEGORY]/[LAND USE A converted to LAND USE B]:
   - Annual biomass growth rates _delta_CG_ (Tables 5.9 and 6.4, Vol 4, IPCC 19R; Tables 5.1,5.2 IPCC 19R)
   - Reference soil organic carbon stock _SOC_ref_ (Table 2.3, Chapter 4, Vol 4, IPCC 19R, can be specific to land use type)
 
