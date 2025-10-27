@@ -22,7 +22,8 @@ In the first historical year of the land use inventory (2004), land distribution
 
 | Year | Total land area (km²) | Natural Forest | Plantation forest | Cropland | Grassland | Settlement | Wetland | Other lands |
 |------|------------------------|----------------|-------------------|-----------|------------|-------------|----------|--------------|
-| 2023 | 100000                | 30000          | 3000              | 30000     | 20000      | 5000        | 2000     | 10000        |
+| 2023 | 100000                | 35000          | 3000              | 37000     | 15000      | 3000        | 2000     | 5000         |  
+
 **Over the historical period some key trends have taken place:**
 
 - Urbanisation: Land area covered by settlements has increased from 3% to 5%, this build up has taken place on former croplands
@@ -45,11 +46,9 @@ depend on land use changes that have taken place over the last 20 years._
 
 As a result, land use distribution in Virdania in 2023 looks as follows:
 
-|Year |Total land area | Natural Forest |	Plantation forest |	Cropland |	Grassland |	Settlement |	Wetland |	Other lands |
-|-----|                                                         km2                                                       |
-|-----|----------------|---------------|--------------------|----------|------------|------------|----------|-------------|
-|2023	|     100000     | 	   30000	   |         3000	      |  30000	 |    20000	  |    5000	   |   2000	  |    10000    |
-
+| Year | Total land area (km²) | Natural Forest | Plantation forest | Cropland | Grassland | Settlement | Wetland | Other lands |
+|------|------------------------|----------------|-------------------|-----------|------------|-------------|----------|--------------|
+| 2023 | 100000                | 30000          | 3000              | 30000     | 20000      | 5000        | 2000     | 10000        |  
 
 Based on these changes, the conversion matrix looks as follows:
 
