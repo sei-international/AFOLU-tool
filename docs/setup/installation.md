@@ -23,6 +23,7 @@ This will open the default AFOLU tool in LEAP. The AFOLU consists of a non-energ
   - Agriculture
   - LULUCF
 
+Specifically, it will look like this:  
 ![AFOLU-tool branch structure](./../assets/images/branch_structure.png)
 
 **You are now ready to adapt the model to your national or regional context.**
