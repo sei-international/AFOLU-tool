@@ -22,9 +22,9 @@ The following **AFOLU sectors** are included:
 - Methane emissions from wetlands *(Tier 1)*
 
   
-To facilitate updating context dependent parameters, the model is set up such that all national data, and parameters are stored under key assumptions.
+To facilitate updating context dependent parameters, the model is set up such that all national data, and parameters are stored under _Key Assumptions_.
 
-Final emission calculations for each relevant subcategory takes place under the Non Energy branch, and can be displayed in LEAP's _Results_-View.
+Final emission calculations for each relevant subcategory take place under the _Non Energy_ branch in LEAP, and can be displayed in LEAP's _Results_-View.
 
 
 [Next]({{ '/setup/setup/' | relative_url }})
