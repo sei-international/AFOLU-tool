@@ -28,6 +28,21 @@
     }
     details[open] > summary::before { transform: rotate(90deg); }
     .indent { padding-left: 14px; }
+    /* Visible borders for tables */
+    table {
+      border-collapse: collapse;
+    }
+    
+    table,
+    th,
+    td {
+      border: 1px solid #333;
+    }
+    
+    th,
+    td {
+      padding: 0.4rem; /* optional for readability */
+    }
   </style>
 </head>
 <body>
