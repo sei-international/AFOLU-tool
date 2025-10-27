@@ -39,15 +39,16 @@ In the first historical year of the land use inventory (2004), land distribution
 | Grassland          | 0.15 | 0.20 |
 | Settlement         | 0.03 | 0.05 |
 | Wetland            | 0.02 | 0.02 |
-| Other lands        | 0.05 | 0.10 |
+| Other lands        | 0.05 | 0.10 |  
+
 _Note: The historical period for the LULUCF sector should always cover 20-years of data, no matter what the definition of 
 historical period is in your LEAP model. This is necessary, because emission and sequestration estimates of the present years
-depend on land use changes that have taken place over the last 20 years. 
+depend on land use changes that have taken place over the last 20 years._ 
 
-As a result, land use distribution in 2023 looks as follows:
+As a result, land use distribution in Virdania in 2023 looks as follows:
 
 |Year |Total land area | Natural Forest |	Plantation forest |	Cropland |	Grassland |	Settlement |	Wetland |	Other lands |
-|-----|                                  km2                                                                              |
+|-----|                                                         km2                                                       |
 |-----|----------------|---------------|--------------------|----------|------------|------------|----------|-------------|
 |2023	|     100000     | 	   30000	   |         3000	      |  30000	 |    20000	  |    5000	   |   2000	  |    10000    |
 
