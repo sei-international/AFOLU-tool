@@ -11,6 +11,7 @@ The tool is integrated into the Long-term Energy Alternatives Planning System (L
 ### System requirements for running LEAP on your computer 
 
 **Required:** Microsoft Windows 7, 8, or 10 (64-bit)
+
 **Not supported:** macOS or Linux (unless running in a virtual Windows environment)
 **Recommended:** A Windows user account with administrator privileges to install the software 
 
