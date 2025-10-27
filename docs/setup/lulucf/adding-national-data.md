@@ -12,7 +12,7 @@ layout: default
 
 ## Land use conversion 
 Once the land use conversion matrix described has been developed by the national experts, the data can be directly added to the 
-the model. The structure, and calculations for the majority of typical land use conversions such as re- and deforestation, urbanisation, expansion of pastures, and severe degradation of pastures are already established in the sample 
+model. The structure, and calculations for the majority of typical land use conversions such as re- and deforestation, urbanisation, expansion of pastures, and severe degradation of pastures are already established in the sample 
 model and only require filling land areas undergoing land use chage (_Key Assumption_ variable) as well as updating certain parameters that are specific to the national context and the local climate. Major land use conversions already in the model include:
 Natural forests:  
 - _Other Land_ converted to _Natural Forest_
