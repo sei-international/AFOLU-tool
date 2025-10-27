@@ -1,4 +1,11 @@
-### The fictional example in the AFOLU-tool
+---
+title: Fictional Example
+permalink: /setup/lulucf/fictional-example/
+layout: default
+---
+[Previous]({{ '/setup/lulucf/gain-loss-method/' | relative_url }})
+
+### The fictional example in the AFOLU-tool - Overview of Verdania
 
 The fictional example in the AFOLU tool consists of a small country called Verdania with a total land area of *100,000km^2*. Verdania has a temperate cool climate. 
 All  major IPCC land categories: Natural forests, plantation forests, croplands, grasslands or pastures, settlements and other lands are present in the 
@@ -75,7 +82,9 @@ This is an appoximation/major over-simplification:
 - a real conversion matrix will likely have many more conversion categories (typical conversions are already set-up in the AFOLU tool, 
 less usual conversions might need to be set up by the user)  
 - there is usually some year to year variation in the level of land use change, some years no changes take place other years changes might be major like 
-in the case of a major drought event  
+in the case of a major drought event
+
+[Nex]({{ '/setup/lulucf/adding-national-data/' | relative_url }})
 
 
 
