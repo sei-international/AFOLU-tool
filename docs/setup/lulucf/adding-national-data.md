@@ -55,7 +55,7 @@ Per default the model is set up such that no land use changes will take place af
     - Non-coniferous: _KEY/LULUCF/Forested Land/Industrial Wood Extraction coniferous incl bark: Key Assumption_
 - Fraction wood extraction Natural forest: the remainder will be extracted from Plantation forests
 - Area burnt in forest fires: _Forest Land Burnt: Key Assumption_
-- Add 20-year lagged values from land converted to forest land to _Natural forests remaining natural forests_ and _Plantation forests remaining plantation forests_ (after 20 years reforested areas are considered forest lands remaining forests)
+- Add 20-year lagged values from land converted to forest land to _Natural forests remaining natural forests_ and _Plantation forests remaining plantation forests_ (after 20 years reforested areas are considered forest lands remaining forests). An example can be found under KEY/Forested Land/Natural Forest/Natural forests remaining natural forestsOther Land converted to Natural Forest:Key Assumption : `ScenarioValue(Current Accounts) + LaggedValue(Other Land converted to Natural Forest, 19)`
  
 If national statistics on these data are not available, they can be retrieved from [FAOStat](https://www.fao.org/faostat/en/#data).
 
