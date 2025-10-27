@@ -20,11 +20,9 @@ In the first historical year of the land use inventory (2004), land distribution
 - Wetlands: 2% of the total land area
 - Other lands: 5% of the total land area (includes deserts and heavily degraded lands)
 
-|Year |Total land area | Natural Forest |	Plantation forest |	Cropland |	Grassland |	Settlement |	Wetland |	Other lands |
-|-----|                                  km2                                                                              |
-|-----|----------------|---------------|--------------------|----------|------------|------------|----------|-------------|
-|2004	|     100000     | 	   35000	   |         3000	      |  37000	 |    15000	  |    3000	   |   2000	  |    5000     |
-
+| Year | Total land area (km²) | Natural Forest | Plantation forest | Cropland | Grassland | Settlement | Wetland | Other lands |
+|------|------------------------|----------------|-------------------|-----------|------------|-------------|----------|--------------|
+| 2023 | 100000                | 30000          | 3000              | 30000     | 20000      | 5000        | 2000     | 10000        |
 **Over the historical period some key trends have taken place:**
 
 - Urbanisation: Land area covered by settlements has increased from 3% to 5%, this build up has taken place on former croplands
