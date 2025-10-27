@@ -6,7 +6,15 @@ layout: default
 [Previous]({{ '/setup/setup/' | relative_url }})
 ## Software Requirements
 
-### Low Emissions Analysis Platform (LEAP)
+The tool is integrated into the Long-term Energy Alternatives Planning System (LEAP) platform and requires users to LEAP installed on their computers.
+
+### System requirements for running LEAP on your computer 
+
+**Required:** Microsoft Windows 7, 8, or 10 (64-bit)
+**Not supported:** macOS or Linux (unless running in a virtual Windows environment)
+**Recommended:** A Windows user account with administrator privileges to install the software 
+
+### LEAP
 
 To download and install LEAP
 
