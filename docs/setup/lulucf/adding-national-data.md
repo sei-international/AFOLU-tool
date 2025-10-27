@@ -14,17 +14,22 @@ layout: default
 Once the land use conversion matrix described has been developed by the national experts, the data can be directly added to the 
 model. The structure, and calculations for the majority of typical land use conversions such as re- and deforestation, urbanisation, expansion of pastures, and severe degradation of pastures are already established in the sample 
 model and only require filling land areas undergoing land use chage (_Key Assumption_ variable) as well as updating certain parameters that are specific to the national context and the local climate. Major land use conversions already in the model include:
+
 Natural forests:  
 - _Other Land_ converted to _Natural Forest_  
+
 Cropland:  
 - _Grassland_ converted to _Cropland_  
 - _Other Land_ converted to _Cropland_  
+
 Grassland:
 - _Other Land_ converted to _Grassland_  
+
 Settlements:  
 - _Cropland_ converted to _Settlements_  
 - _Grassland_ converted to _Settlements_  
 - _Other Land_ converted to _Settlements_  
+
 Other lands:  
 - _Plantation Forest_ converted to _Other Land_  
 - _Cropland_ converted to _Other Land_  
