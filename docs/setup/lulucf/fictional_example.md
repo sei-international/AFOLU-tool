@@ -75,13 +75,12 @@ Based on these changes, the conversion matrix looks as follows:
 | 2022 | 263                                | 105                            | 263                            |
 | 2023 | 263                                | 105                            | 263                            |
 
-_Some key things to note: 
+**Some key things to note:**
 This is an appoximation/major over-simplification (*!!):
 - A real conversion matrix will likely have many more conversion categories (typical conversions are already set-up in the AFOLU tool, 
 less usual conversions might need to be set up by the user)  
-- There is usually some year to year variation in the level of land use change, some years no changes take place other years changes might be major like 
-in the case of a major drought event
-- Ideally, national experts have access to year-by-year land use conversion data for all land types but this is often not the case. This is an example on how such a simplified matrix can be developed when only land use data and major trends are available. Experts will have to judge which simplifications are acceptable and which might require additional data collection using national experts or analysis of primary data such as satellite data._
+- There is usually some year to year variation in the level of land use change. Whereas in some years no changes will take place, other years changes might be major like in the case of a major drought event
+- Ideally, national experts have access to year-by-year land use conversion data for all land types but this is often not the case. This is an example on how such a simplified matrix can be developed when only land use data and major trends are available. Experts will have to judge which simplifications are acceptable and which might require additional data collection using national experts or analysis of primary data such as satellite data.
 
 [Next]({{ '/setup/lulucf/adding-national-data/' | relative_url }})
 
