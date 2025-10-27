@@ -38,7 +38,7 @@ Other lands:
 - _Grassland_ converted to _Other Land_  
 - _Cropland_ converted to _Other Land_
 
-**Projections**
+**Projections**  
 The land use conversion matrix should not only include historical data, but users should also develop projections based on likely land use change trends. These might be due to human pressures or climate driven pressures, for example historical deforestation and urbanisation trends might be expected to continue at historical rates, and climate driven cropland degradation might be expected to accelerate. When developing mitigation scenarios, actions that will contribute to sequestration, such as reforestation or changes in agricultural croplands that increase both climate resilience and carbon sequestrations, might be excluded from the _Baseline_ scenario so they can be counted towards mitigation potential.
 
 ## Data for applying Tier 2 _Gain-Loss_-method for forested lands:
