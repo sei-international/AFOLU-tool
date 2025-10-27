@@ -24,7 +24,7 @@ The following **AFOLU sectors** are included:
   
 To facilitate updating context dependent parameters, the model is set up such that all national data, and parameters are stored under key assumptions.
 
-Final emission calculations for each relevant subcategory takes place under the non-energy branch, and can be displayed in LEAP's Results-View.
+Final emission calculations for each relevant subcategory takes place under the Non Energy branch, and can be displayed in LEAP's _Results_-View.
 
 
 [Next]({{ '/setup/setup/' | relative_url }})
