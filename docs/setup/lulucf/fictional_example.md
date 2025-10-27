@@ -24,7 +24,7 @@ Other lands: 5% of the total land area (includes deserts and heavily degraded la
 
 | Year | Total land area (km²) | Natural forest | Plantation forest | Cropland | Grassland | Settlement | Wetland | Other lands |
 |-----:|----------------------:|---------------:|------------------:|---------:|----------:|-----------:|--------:|------------:|
-| 2023 |               100,000 |        35,000  |             3,000 |   37,000 |    15,000 |      3,000 |   2,000 |      5,000  |
+| 2023 |               100,000 |        35,000  |             3,000 |   37,000 |    15,000 |      3,000 |   2,000 |      5,000  |  
 
 
 **Over the historical period some key trends have taken place:**
@@ -56,7 +56,7 @@ As a result, land use distribution in Virdania in 2023 looks as follows:
 Based on these changes, the conversion matrix looks as follows:
 
 | Year | Natural Forest-to-Grasslands (km²) | Croplands-to-Settlements (km²) | Croplands-to-Other Lands (km²) |
-|------|------------------------------------|--------------------------------|--------------------------------|
+|-----:|-----------------------------------:|-------------------------------:|-------------------------------:|
 | 2004 |                                    |                                |                                |
 | 2005 | 263                                | 105                            | 263                            |
 | 2006 | 263                                | 105                            | 263                            |
@@ -76,10 +76,10 @@ Based on these changes, the conversion matrix looks as follows:
 | 2020 | 263                                | 105                            | 263                            |
 | 2021 | 263                                | 105                            | 263                            |
 | 2022 | 263                                | 105                            | 263                            |
-| 2023 | 263                                | 105                            | 263                            |
+| 2023 | 263                                | 105                            | 263                            |  
 
-**Some key things to note:**
-This is an appoximation/major over-simplification (*!!):
+**Some key things to note:**  
+This is an appoximation/major over-simplification of real land use change observed in any given country:
 - A real conversion matrix will likely have many more conversion categories (typical conversions are already set-up in the AFOLU tool, 
 less usual conversions might need to be set up by the user)  
 - There is usually some year to year variation in the level of land use change. Whereas in some years no changes will take place, other years changes might be major like in the case of a major drought event
