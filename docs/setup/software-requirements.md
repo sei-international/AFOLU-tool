@@ -6,9 +6,9 @@ layout: default
 [Previous]({{ '/setup/setup/' | relative_url }})
 ## Software Requirements
 
-The tool is integrated into the Long-term Energy Alternatives Planning System (LEAP) platform and requires users to LEAP installed on their computers.
+The tool is integrated into the Long-term Energy Alternatives Planning System (LEAP) platform. Before installing and running the AFOLU model, user need to  install LEAP.
 
-### System requirements for running LEAP on your computer 
+### System requirements for installing LEAP on your computer 
 
 **Required:** Microsoft Windows 7, 8, or 10 (64-bit)  
 **Not supported:** macOS or Linux (unless running in a virtual Windows environment)  
