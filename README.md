@@ -12,14 +12,16 @@ The tool consists of a LEAP model of non-energy related GHG emissions from agric
 
 - **GHG Emissions Estimation**  
   The AFOLU tool facilitates the estimation of methane (CH₄), carbon dioxide (CO₂), and nitrous oxide (N₂O) emissions from:
-  - Enteric fermentation
-  - Rice cultivation
-  - Manure Management
+  - Enteric fermentation (CH4)
+  - Manure Management (N₂O and CH4)
   - Soil management
-    - Direct N₂O Emissions from synthetic and organic fertilizers (application of animal manure, crop residues and grazing)
-    - Indirect N₂O Emissions from atmospheric deposition, and leaching and run-off
-    - CO₂ Emissions from urea application
-  - Forestry, other land use and land-use change (LULUCF)
+    - Direct emissions from application synthetic and organic fertilizers (application of animal manure, crop residues and grazing, N₂O)
+	  - Indirect emissions from application synthetic and organic fertilizers  due to atmospheric deposition, and leaching and run-off (N₂O)
+  - Urea application (CO₂)
+  - Rice cultivation (CH4)
+  - Wetlands emissions (CO₂ and CH4)
+  - Forestry, other land use and land-use change (LULUCF, CO₂)
+
 
 - **Adaptable Model**  
   The tool is distributed as a LEAP model with branches for non-energy-related GHG emissions from agriculture and LULUCF sectors based on the hypothetical country **Verdania** with dry an cool temperate climate and can be easily adapted to specific national geographic and climatic contexts.
