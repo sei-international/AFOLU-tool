@@ -15,7 +15,7 @@ The tool consists of a LEAP model of non-energy related GHG emissions from agric
   - Enteric fermentation (CH4)
   - Manure Management (N₂O and CH4)
   - Soil management
-    - Direct emissions from application synthetic and organic fertilizers (application of animal manure, crop residues and grazing, N₂O)
+    - Direct emissions from application synthetic and organic fertilizers (application of animal manure, crop residues and grazing (N₂O)
     - Indirect emissions from application synthetic and organic fertilizers  due to atmospheric deposition, and leaching and run-off (N₂O)
   - Urea application (CO₂)
   - Rice cultivation (CH4)
