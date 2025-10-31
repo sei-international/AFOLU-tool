@@ -17,10 +17,9 @@ The following **AFOLU sectors** are included:
 - Nitrous oxide emissions from agricultural soil management *(Tier 1)*
 - Methane emission from rice cultivation
 - Carbon dioxide emissions from urea application *(Tier 1)*
+- Methane and carbon dioxide emissions from wetlands *(Tier 1)*
 - Carbon dioxide emissions from Land Use, Land-Use Change, and Forestry (LULUCF):  
   The *Gain–Loss* method is applied to enable tracking emissions and sequestration from changes in land use and management practices. For forested lands, Tier 2 methods are applied, which is essential to account for biomass accumulation as well the impacts of overexploitation on total carbon storage in natural and plantation forests. For all other land use categories, Tier 1 methods are used. 
-- Methane emissions from wetlands *(Tier 1)*
-
   
 To facilitate updating context dependent parameters, the model is set up such that all national data, and parameters are stored under _Key Assumptions_.
 
