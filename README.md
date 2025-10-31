@@ -23,14 +23,11 @@ The tool consists of a LEAP model of non-energy related GHG emissions from agric
   - Forestry, other land use and land-use change (LULUCF, CO₂)
 
 
-- **Adaptable Model**  
-  The tool is distributed as a LEAP model with branches for non-energy-related GHG emissions from agriculture and LULUCF sectors based on the hypothetical country **Verdania** with dry an cool temperate climate and can be easily adapted to specific national geographic and climatic contexts.
+- **Adaptable Model:**  The tool is distributed as a LEAP model with branches for non-energy-related GHG emissions from agriculture and LULUCF sectors based on the hypothetical country **Verdania** with dry an cool temperate climate and can be easily adapted to specific national geographic and climatic contexts.
 
-- **IPCC-Compliant Methodology**  
-  The tool employs the Tier 1 methodology from the **2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories**, ensuring alignment with National GHG inventories and UN Transparency reporting guidelines
+- **IPCC-Compliant Methodology:**  The tool employs the Tier 1 methodology from the **2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories**, ensuring alignment with National GHG inventories and UN Transparency reporting guidelines
 
-- **Scenario-Building Capabilities**  
-  Leveraging LEAP's advanced scenario-building features, users can explore various management strategies and prioritize key areas for mitigation action.
+- **Scenario-Building Capabilities:**  Leveraging LEAP's advanced scenario-building features, users can explore various management strategies and prioritize key areas for mitigation action.
 
 ## Getting Started
 
