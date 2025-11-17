@@ -58,4 +58,4 @@ This project is licensed under the [Apache 2.0](LICENSE).
 [Charlotte Wagner](https://github.com/ccwagner) -- LEAP-tool development
 
 ## Contact  
-For questions or further information, please reach out to the maintainers via the [Issues](https://github.com/) tab or contact Charlotte Wagner at [charlotte.wagner[at]sei.org].
+For questions or further information, please reach out to the maintainers via the [Issues](https://github.com/) tab or contact Charlotte Wagner at charlotte.wagner[at]sei.org.
