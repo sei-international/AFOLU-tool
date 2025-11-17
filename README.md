@@ -1,5 +1,7 @@
 # SEI AFOLU Tool
 
+## The AFOLU Tool is a simulation tool that models greenhouse gas emission pathways from agriculture, forestry, and land-use change to help policymakers develop robust, evidence-based national climate mitigation plans within the LEAP modeling platform.
+
 The SEI **Agriculture, Forestry, and Other Land Use (AFOLU) Tool** is designed to assist policymakers and planners in developing medium- and long-term greenhouse gas (GHG) non-energy emission scenarios for agriculture, forestry, and other land uses.
 
 The tool is integrated into the Low Emissions Analysis Platform (LEAP), which is currently used by over 60,000 users to create medium- and long-term energy systems and GHG emission trajectories. Together, LEAP and the AFOLU tool enable the development of internally consistent energy and non-energy GHG emission reduction strategies. By leveraging LEAP's scenario-building capabilities, user-friendly interface and reporting capacity, users can explore different management strategies, facilitating the prioritization of key areas for mitigation action.
