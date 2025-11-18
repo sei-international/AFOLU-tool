@@ -7,7 +7,7 @@ layout: default
 
 ### The fictional example in the AFOLU-tool - Overview of Verdania
 
-The fictional example in the AFOLU tool consists of a small country called Verdania with a total land area of *100,000km^2*. Verdania has a temperate cool climate. 
+The fictional example in the AFOLU tool consists of a small country called Verdania with a total land area of *1,100,000km^2*. Verdania has a temperate cool climate. 
 All  major IPCC land categories: Natural forests, plantation forests, croplands, grasslands or pastures, settlements and other lands are present in the 
 in the countries territory:
 
@@ -24,7 +24,7 @@ Other lands: 5% of the total land area (includes deserts and heavily degraded la
 
 | Year | Total land area (km²) | Natural forest | Plantation forest | Cropland | Grassland | Settlement | Wetland | Other lands |
 |-----:|----------------------:|---------------:|------------------:|---------:|----------:|-----------:|--------:|------------:|
-| 2023 |               100,000 |        35,000  |             3,000 |   37,000 |    15,000 |      3,000 |   2,000 |      5,000  |  
+| 2004 |             1,000,000 |       350,000  |            30,000 |  370,000 |   150,000 |     30,000 |  20,000 |     50,000  |  
 
 
 **Over the historical period some key trends have taken place:**
@@ -51,32 +51,32 @@ As a result, land use distribution in Virdania in 2023 looks as follows:
 
 | Year | Total land area (km²) | Natural Forest | Plantation forest | Cropland | Grassland | Settlement | Wetland | Other lands |
 |------|------------------------|----------------|-------------------|-----------|------------|-------------|----------|--------------|
-| 2023 | 100000                | 30000          | 3000              | 30000     | 20000      | 5000        | 2000     | 10000        |  
+| 2023 | 1,000,000              |        300,000 |            30,000 |   300,000 |    200,000 |      50,000 |   20,000 |      100,000 |  
 
 Based on these changes, the conversion matrix looks as follows:
 
 | Year | Natural Forest-to-Grasslands (km²) | Croplands-to-Settlements (km²) | Croplands-to-Other Lands (km²) |
 |-----:|-----------------------------------:|-------------------------------:|-------------------------------:|
 | 2004 |                                    |                                |                                |
-| 2005 | 263                                | 105                            | 263                            |
-| 2006 | 263                                | 105                            | 263                            |
-| 2007 | 263                                | 105                            | 263                            |
-| 2008 | 263                                | 105                            | 263                            |
-| 2009 | 263                                | 105                            | 263                            |
-| 2010 | 263                                | 105                            | 263                            |
-| 2011 | 263                                | 105                            | 263                            |
-| 2012 | 263                                | 105                            | 263                            |
-| 2013 | 263                                | 105                            | 263                            |
-| 2014 | 263                                | 105                            | 263                            |
-| 2015 | 263                                | 105                            | 263                            |
-| 2016 | 263                                | 105                            | 263                            |
-| 2017 | 263                                | 105                            | 263                            |
-| 2018 | 263                                | 105                            | 263                            |
-| 2019 | 263                                | 105                            | 263                            |
-| 2020 | 263                                | 105                            | 263                            |
-| 2021 | 263                                | 105                            | 263                            |
-| 2022 | 263                                | 105                            | 263                            |
-| 2023 | 263                                | 105                            | 263                            |  
+| 2005 | 2630                               | 1050                           | 2630                           |
+| 2006 | 2630                               | 1050                           | 2630                           |
+| 2007 | 2630                               | 1050                           | 2630                           |
+| 2008 | 2630                               | 1050                           | 2630                           |
+| 2009 | 2630                               | 1050                           | 2630                           |
+| 2010 | 2630                               | 1050                           | 2630                           |
+| 2011 | 2630                               | 1050                           | 2630                           |
+| 2012 | 2630                               | 1050                           | 2630                           |
+| 2013 | 2630                               | 1050                           | 2630                           |
+| 2014 | 2630                               | 1050                           | 2630                           |
+| 2015 | 2630                               | 1050                           | 2630                           |
+| 2016 | 2630                               | 1050                           | 2630                           |
+| 2017 | 2630                               | 1050                           | 2630                           |
+| 2018 | 2630                               | 1050                           | 2630                           |
+| 2019 | 2630                               | 1050                           | 2630                           |
+| 2020 | 2630                               | 1050                           | 2630                           |
+| 2021 | 2630                               | 1050                           | 2630                           |
+| 2022 | 2630                               | 1050                           | 2630                           |
+| 2023 | 2630                               | 1050                           | 2630                           |  
 
 **Some key things to note:**  
 This is an appoximation/major over-simplification of real land use change observed in any given country:
