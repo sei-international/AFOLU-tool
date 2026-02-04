@@ -21,6 +21,6 @@ _Disclaimer: This tool is intended to facilitate Agriculture, Forestry and Other
 
 **AFOLU-tool team**
 
-AFOLU-tool is a project of the Energy Modeling Program at the Stockholm Environment Institute (SEI). Key contributors include Charlotte Wagner, Chris Malley and Charlie Heaps. The project was started through an project funded by the [Agence Française de Développement](https://www.afd.fr/fr) (AFD).
+AFOLU-tool is a project of the Energy Modeling Program at the Stockholm Environment Institute (SEI). Key contributors include Charlotte Wagner, Chris Malley and Charlie Heaps. The tool development was started through an project funded by the [Agence Française de Développement](https://www.afd.fr/fr) (AFD).
 
 [Next]({{ '/model-description/' | relative_url }})
