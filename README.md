@@ -55,9 +55,11 @@ If you are interested in contributing to the AFOLU tool, please contact Charlott
 This project is licensed under the [Apache 2.0](LICENSE).
 
 ## Contributors
+[Charlotte Wagner](https://github.com/ccwagner) -- LEAP-tool development
+
 [Chris Malley](https://www.sei.org/people/chris-malley/) and [Eve Palmer](https://www.sei.org/people/eve-palmer/)                     -- development of initial excel-based version
 
-[Charlotte Wagner](https://github.com/ccwagner) -- LEAP-tool development
+[Charlie Heaps] (https://www.sei.org/people/charlie-heaps/) -- lead developer of LEAP
 
 ## Contact  
 For questions or further information, please reach out to the maintainers via the [Issues](https://github.com/) tab or contact Charlotte Wagner at charlotte.wagner[at]sei.org.
