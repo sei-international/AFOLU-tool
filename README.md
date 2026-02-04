@@ -59,7 +59,7 @@ This project is licensed under the [Apache 2.0](LICENSE).
 
 [Chris Malley](https://www.sei.org/people/chris-malley/) and [Eve Palmer](https://www.sei.org/people/eve-palmer/)                     -- development of initial excel-based version
 
-[Charlie Heaps] (https://www.sei.org/people/charlie-heaps/) -- lead developer of LEAP
+[Charlie Heaps](https://www.sei.org/people/charles-heaps/) -- lead developer of LEAP
 
 ## Contact  
 For questions or further information, please reach out to the maintainers via the [Issues](https://github.com/) tab or contact Charlotte Wagner at charlotte.wagner[at]sei.org.
