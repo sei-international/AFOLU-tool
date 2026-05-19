@@ -18,12 +18,14 @@ _Note:_ The variable  _Fraction Burned for Fuel_ under *KEY/Non-energy/Agricultu
   -	If part of manure is used for feed or construction update variables _Fraction Feed_ and _Fraction Construction_ under  *KEY/Non-energy/Agriculture/Livestock/[ANIMAL TYPE]*-branch
 - **Nitrogen and Volatile Solid excretion:** Update _Daily VS Excretion Rate_ and _Daily N Excrecion Rate_- variables to match your regional and climate context with default data provided in _Tables10.13a and  10.19, Vol 4,IPCC 19R_
 
+Note: if more livestock exist in the national statistics, check in the IPCC whether the additional livestock species are commonly included and EFs are available. the tool set up is intended to be comprehensive so most likely no need to include additional species. In the case of cattle most straight forward way is to include sub-categories into those already present. If you do add new branches for new categories, make sure that you trace all key assumptions and calculations to ensure emissions for these new species are actually being correctly estimated. 
+
 #### Fertilizer
 In *Current Accounts*,  under *KEY/Agriculture/Fertilizer/[FERTILIZER TYPE]*. update the amount of fertilizer applied.
 -	**Approach 1**: Enter fertilizers by type from National Statistics or FAO Stat (under Land, Inputs and Sustainability>Inputs>Fertilizer by Product choose Countries: Country in question, Elements: Agricultural Use, Items:  Ammonium nitrate (AN), Ammonium sulphate, Urea and Other where applicable (N content of Other category is assumed at 0.2, update if necessary)).
 -	**Approach 2:** Alternatively you can specify, total mineral fertilizer (in amounts of N) and specify amount of urea applied. 
 Depending on which approach you use the _Key assumption_-variable of all other fertilizer types should be set to zero (except Urea). Amounts of urea applied always need to be specified, as this variable is used to estimate CO2 emissions from urea. 
--	In the Baseline scenario, develop appropriate projections. In the default-model these follow 10-year historical trends (2011-2020). 
+-	In the Baseline scenario, develop appropriate projections. In the default-model these follow 10-year historical trends (2011-2020). \
 
 #### Rice cultivation
 In *Current Accounts*, under the *KEY/Non-energy/Agriculture/Area rice cultivation*-branch update the area under rice cultivation (_Key assumption_-variable). Add all years for which data is available. 
@@ -39,6 +41,8 @@ Suggested Sources: National Statistics or FAO Stat (under Production>Crops and l
 *Note: You might need to map crop types reported to the IPCC categories, depending on the disaggregation in country reporting. Make sure all crops in the national statistics are included, and set crop categories not produced in the national context to zero.
 -	In the *Baseline* scenario, develop appropriate projections. In the default-model these follow historical trends.
 -	If part of crop residue is removed, or slash and burn practices are used, update variables *Slashed and Burnt* and *Fraction removed* under *KEY/Non-energy/Agriculture/Crops/[CROP TYPE]*-branch
+
+All  IPCC crop categories are represented in the tool but may not align with the crop categories reported in national statistics. Before entering your data bundle the crop categories into the relevant IPCC categories represented in the tool.
 
 #### Other climate and geography dependent variables
 
